@@ -11,7 +11,7 @@ Bu Unity projesi, Solo Leveling animesinden esinlenilerek geliştirilmiş intera
       <img width="338" height="691" src="https://github.com/user-attachments/assets/8d17b16c-0d99-4746-88aa-576a3fef50bf" alt="Status Ekranı" />
     </td>
     <td><strong>Quest Ekranı</strong><br>
-      <img width="338" height="691" src="https://github.com/user-attachments/assets/e3dae79c-d19b-48a5-ad3e-2f255a2a45c8" alt="Quest Ekranı" />
+      <img width="338" height="691" src="https://github.com/user-attachments/assets/08898c79-94c4-4e46-b6cb-8bde5ec3c426" alt="Quest Ekranı" />  
     </td>
   </tr>
   <tr>
