@@ -3,19 +3,27 @@
 ## Açıklama
 Bu Unity projesi, Solo Leveling animesinden esinlenilerek geliştirilmiş interaktif bir stat ve görev takip uygulamasıdır. Kullanıcılar kendi bilgilerini girerek karakterlerini oluşturur, görevlerle seviye atlar ve istatistiklerini geliştirir.
 
-## Uygulama Görselleri
-| Status Ekranı                       
-| -----------------------------------
-| <img width="338" height="691" alt="Screenshot 2025-07-23 205648" src="https://github.com/user-attachments/assets/8d17b16c-0d99-4746-88aa-576a3fef50bf" />
-| Quest Ekranı                      
-| -----------------------------------
-| <img width="338" height="691" alt="Screenshot 2025-07-23 205703" src="https://github.com/user-attachments/assets/e3dae79c-d19b-48a5-ad3e-2f255a2a45c8" />
-| Bilgi Giriş Ekranı      
-| -----------------------------------
-| <img width="338" height="691" alt="Screenshot 2025-07-23 205622" src="https://github.com/user-attachments/assets/afde2d68-ec0c-4acf-99cd-3e03e3a860bf" />
-| Takvim Ekranı       
-| -----------------------------------
-| <img width="338" height="691" alt="Screenshot 2025-07-23 205703" src="https://github.com/user-attachments/assets/1cdba228-e9cf-4747-823a-15012cff5206" />
+<h2>Uygulama Görselleri</h2>
+
+<table>
+  <tr>
+    <td><strong>Status Ekranı</strong><br>
+      <img width="338" height="691" src="https://github.com/user-attachments/assets/8d17b16c-0d99-4746-88aa-576a3fef50bf" alt="Status Ekranı" />
+    </td>
+    <td><strong>Quest Ekranı</strong><br>
+      <img width="338" height="691" src="https://github.com/user-attachments/assets/e3dae79c-d19b-48a5-ad3e-2f255a2a45c8" alt="Quest Ekranı" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Bilgi Giriş Ekranı</strong><br>
+      <img width="338" height="691" src="https://github.com/user-attachments/assets/afde2d68-ec0c-4acf-99cd-3e03e3a860bf" alt="Bilgi Giriş Ekranı" />
+    </td>
+    <td><strong>Takvim Ekranı</strong><br>
+      <img width="338" height="691" src="https://github.com/user-attachments/assets/1cdba228-e9cf-4747-823a-15012cff5206" alt="Takvim Ekranı" />
+    </td>
+  </tr>
+</table>
+
 
 ## Özellikler
 ✅ Kullanıcı Bilgi Girişi: İsim, yaş, kilo ve boy bilgisi girilir.
