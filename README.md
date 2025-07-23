@@ -24,12 +24,47 @@ Bu Unity projesi, Solo Leveling animesinden esinlenilerek geliştirilmiş intera
   </tr>
 </table>
 
+<br>
 
-## Özellikler
-✅ Kullanıcı Bilgi Girişi: İsim, yaş, kilo ve boy bilgisi girilir.
-📊 Status Ekranı: Seviye (Level), HP, MP ve beş temel stat (Strength, Vitality, Agility, Intelligence, Sense).
-🔼 Level Sistemi: Her seviye atlamada 10 puan kazanılır ve bu puanlar istenilen stat'a dağıtılabilir.
-⏱️ Gerçek Zaman: Status ekranında canlı saat gösterimi vardır; oyuncunun 24 saati olduğunu vurgulamak için.
-🧱 Görev (Quest) Sistemi: Pushups, Situps, Squats ve Run görevleri vardır. Görevler tamamlandığında level atlanır.
-🔁 Günlük Reset: Görev ilerlemesi her 24 saatte sıfırlanır.
-📅 Takvim Sistemi: Yapılan görevler takvim günlerine kaydedilir. Önceki günler görüntülenebilir.
+<h2>Özellikler</h2>
+
+<table>
+  <tr>
+    <td>✅</td>
+    <td><strong>Kullanıcı Bilgi Girişi</strong><br />
+    Kullanıcıdan <code>isim</code>, <code>yaş</code>, <code>kilo</code> ve <code>boy</code> bilgisi alınır.</td>
+  </tr>
+  <tr>
+    <td>📊</td>
+    <td><strong>Status Ekranı</strong><br />
+    Oyuncunun <code>Seviye (Level)</code>, <code>HP</code>, <code>MP</code> değerleri ile birlikte şu beş temel stat görüntülenir: 
+    <code>Strength</code>, <code>Vitality</code>, <code>Agility</code>, <code>Intelligence</code>, <code>Sense</code>.</td>
+  </tr>
+  <tr>
+    <td>🔼</td>
+    <td><strong>Level Sistemi</strong><br />
+    Her seviye atladığında oyuncuya <code>10 stat puanı</code> verilir. Bu puanlar istenilen statlara dağıtılabilir.</td>
+  </tr>
+  <tr>
+    <td>⏱️</td>
+    <td><strong>Gerçek Zaman Göstergesi</strong><br />
+    Status ekranında <strong>canlı saat</strong> bulunur. Oyuncuya <em>24 saatlik zaman sınırı</em> olduğunu hissettirmek amaçlanmıştır.</td>
+  </tr>
+  <tr>
+    <td>🧱</td>
+    <td><strong>Görev (Quest) Sistemi</strong><br />
+    Günlük görevler: <code>Pushups</code>, <code>Situps</code>, <code>Squats</code>, <code>Run</code>.<br />
+    Tüm görevler tamamlandığında oyuncu <strong>seviye atlar</strong>.</td>
+  </tr>
+  <tr>
+    <td>🔁</td>
+    <td><strong>Günlük Reset Sistemi</strong><br />
+    Görev ilerlemeleri her <code>24 saatte bir</code> sıfırlanır.</td>
+  </tr>
+  <tr>
+    <td>📅</td>
+    <td><strong>Takvim Sistemi</strong><br />
+    Tamamlanan görevler <strong>takvime işlenir</strong>. Önceki günler incelenebilir.</td>
+  </tr>
+</table>
+
